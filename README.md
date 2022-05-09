@@ -1,2 +1,3 @@
 # cleanmag
-Верстка макета cleanmag
+
+Demo - https://shamilfrontend.github.io/cleanmag/
